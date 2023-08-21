@@ -35,7 +35,9 @@ class Country {
 }
 let usa = new Country("USA", "Murican", "Why Hello there world! Have some McDonalds", ["red", "white", "blue"], "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg");
 let mexico = new Country("Mexico", "Spanish", "Hola mundo!", ["red", "white", "green"], "https://cdn.britannica.com/73/2573-004-29818847/Flag-Mexico.jpg");
-let algeria = new Country("Algeria", "Arabic and Berber", "Sup", ["green", "white", "red"], "https://cdn11.bigcommerce.com/s-w6fxwapwzi/images/stencil/640w/products/2696/5578/2x3-algeria-flag-image__35437.1582736326.jpg?c=1");
+let algeria = new Country("Algeria", "Arabic and Berber", "مرحبا بالعالم", ["green", "white", "red"], "https://cdn11.bigcommerce.com/s-w6fxwapwzi/images/stencil/640w/products/2696/5578/2x3-algeria-flag-image__35437.1582736326.jpg?c=1");
+
+
 
 
 function SwitchCountry() {
